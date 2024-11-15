@@ -112,6 +112,10 @@ Contributors
 
   - Ronald Portier <ronald@therp.nl>
 
+- `Tesseratech <https://tesseratech.es>`__:
+
+  - Christian Doñate
+
 Maintainers
 -----------
 
