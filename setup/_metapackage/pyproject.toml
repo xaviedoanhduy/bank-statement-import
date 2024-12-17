@@ -1,8 +1,9 @@
 [project]
 name = "odoo-addons-oca-bank-statement-import"
-version = "17.0.20241119.0"
+version = "17.0.20241217.0"
 dependencies = [
     "odoo-addon-account_statement_import_base>=17.0dev,<17.1dev",
+    "odoo-addon-account_statement_import_camt>=17.0dev,<17.1dev",
     "odoo-addon-account_statement_import_file>=17.0dev,<17.1dev",
     "odoo-addon-account_statement_import_file_reconcile_oca>=17.0dev,<17.1dev",
     "odoo-addon-account_statement_import_move_line>=17.0dev,<17.1dev",
